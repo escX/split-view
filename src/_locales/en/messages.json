@@ -1,0 +1,6 @@
+{
+  "extendName": { "message": "SplitView" },
+  "extendDesc": { "message": "Web page split-screen browsing, browsing multiple pages in one page at the same time." },
+  "searchPlaceholder": { "message": "search" },
+  "badgeOpen": { "message": "open" }
+}

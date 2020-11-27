@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>SplitView</title>
+    <style>
+      [v-cloak] {
+        display: none;
+      }
+      * {
+        box-sizing: border-box;
+      }
+    </style>
+    <link rel="stylesheet" href="popup.css" />
+    <% if (NODE_ENV === 'development') { %>
+    <!-- Load some resources only in development environment -->
+    <% } %>
+  </head>
+  <body>
+    <div id="app" v-cloak></div>
+    <script src="popup.js"></script>
+  </body>
+</html>

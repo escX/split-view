@@ -1,0 +1,6 @@
+{
+  "extendName": { "message": "网页分屏" },
+  "extendDesc": { "message": "网页分屏浏览，在一个页面里同时浏览多个网页。" },
+  "searchPlaceholder": { "message": "请输入网址" },
+  "badgeOpen": { "message": "开启" }
+}
