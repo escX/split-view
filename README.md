@@ -1,5 +1,8 @@
 ![logo](./imgs/splitview.png "SplitView")
 
+
+<img src="./imgs/splitview.svg" />
+
 `SplitView`是一个可以应用在`Microsoft Edge`、`chrome`等基于`chromium`内核浏览器中的扩展，用于在一个页面里同时浏览多个网页。
 
 ## 功能
@@ -14,7 +17,7 @@
 从扩展商店中安装：*扩展发布审核中*
 
 ### 其他浏览器
-从项目主页[https://github.com/escX/split-view](https://github.com/escX/split-view)中下载`ZIP`包进行安装。
+从项目发布主页[https://github.com/escX/split-view/releases](https://github.com/escX/split-view/releases)中下载`ZIP`包进行安装。
 
 ## 开发计划
 扩展处于早期开发阶段，仍有许多不足和缺陷。但在后续的开发阶段中，将不断对扩展进行完善。后续开发计划：
@@ -24,7 +27,9 @@
 - 设置并保存自定义模式
 
 ## 历史版本
+- v1.0.0
 
+  初版本发布
 
 ## 联系
 如果您有任何建议或想法，欢迎联系我。
