@@ -11,7 +11,7 @@
 ## 安装
 
 ### Microsoft Edge
-从扩展商店中安装：*扩展发布审核中*
+从扩展商店中安装：[Microsoft Store | 网页分屏](https://microsoftedge.microsoft.com/addons/detail/%E7%BD%91%E9%A1%B5%E5%88%86%E5%B1%8F/namfnaamgkjhihheegnpkdpighkgppdk)
 
 ### 其他浏览器
 从项目发布主页[https://github.com/escX/split-view/releases](https://github.com/escX/split-view/releases)中下载`ZIP`包进行安装。
