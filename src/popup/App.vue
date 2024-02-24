@@ -197,6 +197,34 @@ export default {
             ],
           },
         },
+        {
+          type: '[A|B]-[C|D]',
+          data: [
+            { name: 'A', style: { width: '50%', height: '50%', top: '0%', left: '0%' } },
+            { name: 'B', style: { width: '50%', height: '50%', top: '0%', left: '50%' } },
+            { name: 'C', style: { width: '50%', height: '50%', top: '50%', left: '0%' } },
+            { name: 'D', style: { width: '50%', height: '50%', top: '50%', left: '50%' } },
+          ],
+          ele: {
+            name: 'mode_box mode_box--flex-column',
+            nodes: [
+              {
+                name: 'mode_box--flex',
+                nodes: [
+                  { name: '', block: 'A' },
+                  { name: 'mode_box--border-left', block: 'B' },
+                ],
+              },
+              {
+                name: 'mode_box--flex mode_box--border-top',
+                  nodes: [
+                    { name: '', block: 'C' },
+                    { name: 'mode_box--border-left', block: 'D' },
+                  ],
+              },
+            ],
+          },
+        },
       ],
       initOpen: false,
       initActive: false,
